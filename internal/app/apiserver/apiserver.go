@@ -3,7 +3,7 @@ package apiserver
 import (
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"
-	"github.com/yerassylbolatov/http-rest-api/store"
+	"github.com/yerassylbolatov/http-rest-api/internal/app/store"
 	"io"
 	"net/http"
 )
